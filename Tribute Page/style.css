@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page{
+    background-color: rgb(237, 191, 124);
+    border: 9px solid rgba(255, 145, 0, 0.999);
+    border-radius: 9px;
+    padding: 20px;
+}
+.content{
+    margin-top: 10px;
+    text-align: center;
+}
+h1{
+    color: rgb(67, 6, 6);
+    font-weight: 100px;
+}
+.imgcontainer{
+    text-align: center;
+}
+img{
+    border-radius: 150px;
+    overflow: hidden;
+    width: 250px;
+    height: 300px;
+}
+.contribution{
+    text-align: justify;
+    font-size: medium;
+}
+hr{
+    border: solid rgba(235, 167, 65, 0.362);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
